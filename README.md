@@ -41,8 +41,7 @@
 
 <h2> My analytics </h2>
 <a href = "https://github.com/LucasFerroWay-V/github-readme-stats" target="_blank">
-  <img height = "167" src = "https://github-readme-stats.vercel.app/api?username=LucasFerroWay-V
-&custom_title=Status&count_private=true&include_all_commits=true&show_icons=true&theme=algolia"/>
+  <img height = "167" src = "https://github-readme-stats.vercel.app/api?username=LucasFerroWay-V&custom_title=Status&count_private=true&include_all_commits=true&show_icons=true&theme=algolia"/>
   <img height = "167" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerroWay-V&custom_title=Most Used Languages&layout=compact&langs_count=4&show_icons=true&hide=JavaScript&theme=algolia"/>
 </a>
 
