@@ -5,7 +5,7 @@
   <img src="https://github.com/LucasFerroWay-V/PrivateFolder/blob/main/Capa%20-%20Linkedin.png"/>
 </p>
 
-<h2> I'm an undergraduate student in Computer Engineering and a Natural Language Processing researcher at Pontifical Catholic University of Paraná </h2>
+<h2> I'm an undergraduate student in Computer Engineering, a Natural Language Processing researcher at Pontifical Catholic University of Paraná and an Intern at Way-V </h2>
 
 <p> 
   Researcher at the <a href="https://github.com/HAILab-PUCPR/" target="_blank"> HAILab research group</a>, Graduate Program in Health Technology and Graduate Program in Informatics, <a href="https://www.pucpr.br" target="black"> PUCPR</a>, pursuing AI studies focusing on Natural Language Processing (NLP) of clinical text.
